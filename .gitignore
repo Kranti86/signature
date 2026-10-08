@@ -1,0 +1,5 @@
+data/
+signed_pdfs/
+__pycache__/
+*.pyc
+.env
